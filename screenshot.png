@@ -1,0 +1,13 @@
+PS C:\Users\K S S ANEESH\Desktop\New folder (2)> python personal_intro.py
+Welcome to the Personal Introduction Program
+What is your name? Anitha
+How old are you? 21
+Which city are you from? Hyderabad
+What is your favorite hobby? Job
+
+Welcome Anitha!
+You are 21 years old.
+You live in Hyderabad.
+You love Job.
+
+Thank you for sharing your details!
